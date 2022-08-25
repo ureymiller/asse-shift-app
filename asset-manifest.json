@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asse-shift-app/static/css/main.89172986.css",
+    "main.js": "/asse-shift-app/static/js/main.aadb5f82.js",
+    "index.html": "/asse-shift-app/index.html",
+    "main.89172986.css.map": "/asse-shift-app/static/css/main.89172986.css.map",
+    "main.aadb5f82.js.map": "/asse-shift-app/static/js/main.aadb5f82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89172986.css",
+    "static/js/main.aadb5f82.js"
+  ]
+}
