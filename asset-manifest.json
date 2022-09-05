@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/asse-shift-app/static/css/main.2faeb5ce.css",
-    "main.js": "/asse-shift-app/static/js/main.aadb5f82.js",
+    "main.js": "/asse-shift-app/static/js/main.be2d2a66.js",
     "index.html": "/asse-shift-app/index.html",
     "main.2faeb5ce.css.map": "/asse-shift-app/static/css/main.2faeb5ce.css.map",
-    "main.aadb5f82.js.map": "/asse-shift-app/static/js/main.aadb5f82.js.map"
+    "main.be2d2a66.js.map": "/asse-shift-app/static/js/main.be2d2a66.js.map"
   },
   "entrypoints": [
     "static/css/main.2faeb5ce.css",
-    "static/js/main.aadb5f82.js"
+    "static/js/main.be2d2a66.js"
   ]
 }
